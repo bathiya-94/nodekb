@@ -1,6 +1,6 @@
 # Simple CRUD application
 
-This is simple CRUD application which contains APIs for creating,editing,deleting an article with basic authentication
+This is a simple CRUD application which contains APIs for creating,editing,deleting an article with basic authentication
 
 # Built with
 
