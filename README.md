@@ -7,6 +7,7 @@ This is a simple CRUD application which contains APIs for creating,editing,delet
 - NodeJS
 - ExpressJS
 - MongoDB
+- PUG templates
 
 
 
